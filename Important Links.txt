@@ -1,0 +1,4 @@
+https://medium.com/@vigneshbezawada3/building-a-chess-game-in-c-with-raylib-part-1-rendering-the-board-pieces-d34ebdc48fad
+
+
+https://www.raylib.com/cheatsheet/cheatsheet.html
