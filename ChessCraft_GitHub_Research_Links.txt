@@ -1,0 +1,30 @@
+ChessCraft — GitHub Research Links
+
+
+External repositories to investigate
+
+1.  Gambit — C++ chess engine https://github.com/AnasBenAhmed/Gambit
+    Possible study topics: separating chess logic from the GUI, legal
+    move generation, chess-rule handling, and tests. Compatibility note:
+    uses SFML rather than raylib; study concepts, not its GUI
+    implementation.
+
+2.  ChessEngine — C++ chess engine
+    https://github.com/GodSonIsBack/ChessEngine Possible study topics:
+    board-state representation, move generation, search, alpha-beta
+    pruning, and perft testing. Compatibility note: some techniques may
+    be too advanced for the first ChessCraft skeleton.
+
+3.  Chess — C++ chess project https://github.com/wesmar/Chess Possible
+    study topics: low-level C++ implementation and approaches that avoid
+    external dependencies. Compatibility note: inspect its
+    platform-specific code and design before deciding whether any
+    concept applies.
+
+4.  Chess — Java TCP multiplayer project
+    https://github.com/eneskzlcn/Chess Possible study topics:
+    client/server organization, sending moves over TCP, and keeping
+    multiplayer game states synchronized. Compatibility note: written in
+    Java/Swing, which is not the technology selected for ChessCraft. Use
+    only as a conceptual networking reference.
+
